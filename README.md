@@ -3,8 +3,6 @@ Network Toplogy for University Main Campus and Branch Network
 
 <h1> University Campus Lab </h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 Main Campus Setup:
 
